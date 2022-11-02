@@ -5,7 +5,7 @@ int main(){
 	
 	int n;
 	
-	printf("Satýr sayýsýný giriniz.. ");
+	printf("Satir sayisini giriniz.. ");
 	scanf("%d",&n);
 	
 	for (int i = 1;i<=n;i++){
